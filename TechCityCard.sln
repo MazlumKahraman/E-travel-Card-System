@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCityCard_Lib", "TechCityCard_Lib\TechCityCard_Lib.csproj", "{2E2B8AA7-DF85-477F-8772-092FDF2E1AE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechCityCard_App", "spectre-demo\TechCityCard_App.csproj", "{03792F3A-03B9-472B-BD78-ED2032240FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E2B8AA7-DF85-477F-8772-092FDF2E1AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2B8AA7-DF85-477F-8772-092FDF2E1AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2B8AA7-DF85-477F-8772-092FDF2E1AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2B8AA7-DF85-477F-8772-092FDF2E1AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03792F3A-03B9-472B-BD78-ED2032240FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03792F3A-03B9-472B-BD78-ED2032240FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03792F3A-03B9-472B-BD78-ED2032240FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03792F3A-03B9-472B-BD78-ED2032240FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1ABC69-02C0-454E-AD3C-5BF77B782FBA}
+	EndGlobalSection
+EndGlobal

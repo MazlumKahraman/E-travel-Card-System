@@ -1,0 +1,12 @@
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\bin\Debug\net6.0\TechCityCard_Lib.deps.json
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\bin\Debug\net6.0\TechCityCard_Lib.dll
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\bin\Debug\net6.0\TechCityCard_Lib.pdb
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\obj\Debug\net6.0\TechCityCard_Lib.csproj.AssemblyReference.cache
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\obj\Debug\net6.0\TechCityCard_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\obj\Debug\net6.0\TechCityCard_Lib.AssemblyInfoInputs.cache
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\obj\Debug\net6.0\TechCityCard_Lib.AssemblyInfo.cs
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\obj\Debug\net6.0\TechCityCard_Lib.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\obj\Debug\net6.0\TechCityCard_Lib.dll
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\obj\Debug\net6.0\refint\TechCityCard_Lib.dll
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\obj\Debug\net6.0\TechCityCard_Lib.pdb
+C:\Users\cyber\OneDrive\Masaüstü\Entertech\TechCityCard\TechCityCard_Lib\obj\Debug\net6.0\ref\TechCityCard_Lib.dll

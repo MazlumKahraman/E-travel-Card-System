@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPW8ihdw4Fz8j/xziZl7Uw+ZHrjd6Mf+I1b0Glz9M5eieSZW9AGn08lCwgp+yaWUw2X6//0Ia1s3pAxF7f1nIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cyber\\OneDrive\\Masaüstü\\Entertech\\TechCityCard\\spectre-demo\\TechCityCard_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cyber\\.nuget\\packages\\spectre.console\\0.45.0\\spectre.console.0.45.0.nupkg.sha512",
+    "C:\\Users\\cyber\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
